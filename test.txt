@@ -2,4 +2,8 @@ Hello welcome
 Master branch
 Changes made in local repository
 New changes made in remote
+Adding branch new features
+Adding branch new features
+Adding branch new features
+Adding branch new features
 
