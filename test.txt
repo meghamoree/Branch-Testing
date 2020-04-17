@@ -1,3 +1,25 @@
+  [1/1]                                                                           .txt                                                                            Modified
+Adding branch in newfeatures1
+Adding branch in newfeatures1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Hello welcome
 Master branch
 Changes made in local repository
@@ -6,4 +28,9 @@ Adding branch new features
 Adding branch new features
 Adding branch new features
 Adding branch new features
+Add a new branch at new features1
+Add a new branch at new features1
+Add a new branch at new features1
+Add a new branch at new features1
+
 
